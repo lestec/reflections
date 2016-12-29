@@ -1,0 +1,22 @@
+1. How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+It helped seperate the content that wasn't 
+changed from the content that was changed.
+By doing this there were less lines of code to go through and it was easier to see what was wrong.
+It also gave a + and - to desinate if it was changed or removed.
+
+2. How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+You can go through and see the changes and edits, some things that work together and some that don't.
+Also if you need to have a place to start over or compare to see what you did different.
+
+Pros and cons of manually choosing when to create a commit like in Git, vs having versions autosaved like google docs does?
+
+If you forget to save and or you didn't save and made major changes and it doesn't work and you can't
+go back.
+
+
+Make sure you can start your editor from the terminal
+
+If you use Sublime you can do this by add the line to your .bash_profile
+alias subl="/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl"
