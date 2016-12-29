@@ -1,0 +1,15 @@
+What happens when you initialize a repsitory?
+Why do you need to do it?
+You create a directory in sense. Than you need
+to make a commit for it to all come together.
+
+How is the staging area different from the working directory 
+and the repository? What value do you think it offers? 
+stagging area is a place to add file to like a clipboard
+in a way, then commit what files are in there to the 
+repo. wking directory on your hard drive, computer.
+It offers the value of not having to commit everything
+you can pick and choose what you want in there. Also
+it offers a way to write a commit message so you know what 
+changes have been made.
+
