@@ -1,1 +1,3 @@
 When would you want to create a remote repository rather than keeping all of your work locally?
+When you have something to share with the public. and/or when you start and after every meaniful change, 
+esp so you have the code in another place just in case something happened to your system.
